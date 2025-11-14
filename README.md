@@ -3,10 +3,7 @@
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
-2. [Core OOP Principles](#core-oop-principles)
-3. [SOLID Principles](#solid-principles)
-4. [Design Patterns](#design-patterns)
-
+2. Key Features
 
 ---
 
